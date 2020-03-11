@@ -1,0 +1,2 @@
+# hareketbulanikligiazaltma
+Hareket Bulanıklığı Azaltma 
