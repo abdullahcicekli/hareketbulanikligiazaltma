@@ -1,6 +1,8 @@
 # MATLAB İle Hareket Bulanıklığı Azaltma
 Hareket Bulanıklığı Azaltma kodu daha önce yayınlayan Chen Zhiliang'in kodunun Türkçeleştirilmiş ve düzenlenmiş halidir. 
 
+Deneme Yapmak İçin 11.jpg dosyasını indirip aşağıyı okuyarak kullanımı daha rahat öğrenebilirsiniz.
+
 ![duzeltme](https://user-images.githubusercontent.com/48344066/76417992-e96e4a00-63ae-11ea-9f4e-7df676233be4.PNG)
 
 # Kullanımı
