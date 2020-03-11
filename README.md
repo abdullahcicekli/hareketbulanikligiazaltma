@@ -19,10 +19,11 @@ Resmi incelediğimizde kayma yönünün çapramazlama olduğunu ve ortalama olar
 
 ![kayma](https://user-images.githubusercontent.com/48344066/76417723-6c42d500-63ae-11ea-8229-f14f650143d3.PNG)
 
-Resmi yakından incelediğimiz zaman ise kayma miktarının 45-50 civarında (piksel) olduğunu görebili
+Resmi yakından incelediğimiz zaman ise kayma miktarının 45-50 civarında (piksel) olduğunu görebiliriz.
 O Halde Parametrelerimizi belirlerken bunları kullanarak;
 
 kaymauzunlugu = 50;       %Ortalama
+
 kaymaacisi = 45;    % Ortalama 
 
 belirleyebiliriz.
