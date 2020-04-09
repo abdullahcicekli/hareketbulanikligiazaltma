@@ -34,3 +34,11 @@ Kodumuzu Çalıştırdığımız Zaman İse Bize Dönderdiği Resim Şu Şekilde
 
 ![Duzeltilmis_50_45_60](https://user-images.githubusercontent.com/48344066/76417884-bb890580-63ae-11ea-9351-0aa10e554312.png)
 
+
+# İletişim
+
+Mail - abdulahcicekli@gmail.com / 170509051@firat.edu.tr
+
+LinkedIn - https://www.linkedin.com/in/cicekliabdullah/
+
+Instagram - https://www.instagram.com/cicekli_abdullah/?hl=tr
